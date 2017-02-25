@@ -1,4 +1,9 @@
-# mc1
-MasterCrypt v1
+# MasterCrypt v1
 
 Created by João Artur
+
+- PHP
+- C (Coming soon)
+- C# (Coming soon)
+- Python (Coming soon)
+- Perl (Coming soon)
