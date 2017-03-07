@@ -12,16 +12,16 @@
 		$prefixo = "#$";
 		$sufixo  = "$#";
 		$a = md5($valor);
-		$a = sha1($valor);
-		$a = base64_encode($valor);
-		$a = md5($valor);
-		$a = md5($valor);
-		$a = md5($valor);
-		$a = md5($valor);
-		$a = md5($valor);
-		$a = base64_encode($valor);
-		$a = sha1($valor);
-		$a = sha1($valor);
+		$a = sha1($a);
+		$a = base64_encode($a);
+		$a = md5($a);
+		$a = md5($a);
+		$a = md5($a);
+		$a = md5($a);
+		$a = md5($a);
+		$a = base64_encode($a);
+		$a = sha1($a);
+		$a = sha1($a);
 		return $prefixo.$a.$sufixo;
 	}
 
